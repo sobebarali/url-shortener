@@ -5,7 +5,7 @@
 When you have [installed Encore](https://encore.dev/docs/ts/install), you can create a new Encore application and clone this example with this command.
 
 ```bash
-encore app create my-app-name --example=ts/empty
+encore app create url-shortner --example=ts/empty
 ```
 
 ## Running locally
